@@ -434,8 +434,8 @@ github.com/creack/pty v1.1.11/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ
 github.com/cyberdelia/templates v0.0.0-20141128023046-ca7fffd4298c/go.mod h1:GyV+0YP4qX0UQ7r2MoYZ+AvYDp12OF5yg4q8rGnyNh4=
 github.com/danieljoos/wincred v1.1.2 h1:QLdCxFs1/Yl4zduvBdcHB8goaYk9RARS2SgLLRuAyr0=
 github.com/danieljoos/wincred v1.1.2/go.mod h1:GijpziifJoIBfYh+S7BbkdUTU4LfM+QnGqR5Vl2tAx0=
-github.com/dasanchez/cometbft-db v0.10.0-no-compression h1:uAYa788ec+LlV+DH1pLgrfEqSUWNA8YSd7YYF/byQ/s=
-github.com/dasanchez/cometbft-db v0.10.0-no-compression/go.mod h1:LCA5DJ2HC1OF2M1le4QhkRLKTnQbjSdqBCMqtb3O1bE=
+github.com/dasanchez/cometbft-db v0.10.1-0.20240319150616-c27e6d1f929e h1:pt+EE8fgk4nJ7mJlbvPa9cmcR+LW4/2bL0WfzriEW4k=
+github.com/dasanchez/cometbft-db v0.10.1-0.20240319150616-c27e6d1f929e/go.mod h1:7RR7NRv99j7keWJ5IkE9iZibUTKYdtepXTp7Ra0FxKk=
 github.com/dave/jennifer v1.2.0/go.mod h1:fIb+770HOpJ2fmN9EPPKOqm1vMGhB+TwXKMZhrIygKg=
 github.com/davecgh/go-spew v0.0.0-20171005155431-ecdeabc65495/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
